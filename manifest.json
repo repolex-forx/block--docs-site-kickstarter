@@ -246,6 +246,341 @@
       ],
       "ast": [
         "aggregate/ast/9ab73d6643d75a040344479969b53bd3841d675b/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/9ab73d6643d75a040344479969b53bd3841d675b.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "@astrojs/mdx",
+          "ecosystem": "NPM",
+          "version": "4.3.0",
+          "githubOrg": "withastro",
+          "githubRepo": "astro",
+          "githubUrl": "git+https://github.com/withastro/astro.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@astrojs/react",
+          "ecosystem": "NPM",
+          "version": "4.3.0",
+          "githubOrg": "withastro",
+          "githubRepo": "astro",
+          "githubUrl": "git+https://github.com/withastro/astro.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@heroicons/react",
+          "ecosystem": "NPM",
+          "version": "2.2.0",
+          "githubOrg": "tailwindlabs",
+          "githubRepo": "heroicons",
+          "githubCommit": "0435d4ca364a608cc75e2f8683d374e55abbae26",
+          "githubTag": "v2.2.0",
+          "githubUrl": "git+https://github.com/tailwindlabs/heroicons.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@radix-ui/react-checkbox",
+          "ecosystem": "NPM",
+          "version": "1.3.2",
+          "githubOrg": "radix-ui",
+          "githubRepo": "primitives",
+          "githubUrl": "git+https://github.com/radix-ui/primitives.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@radix-ui/react-dialog",
+          "ecosystem": "NPM",
+          "version": "1.1.14",
+          "githubOrg": "radix-ui",
+          "githubRepo": "primitives",
+          "githubUrl": "git+https://github.com/radix-ui/primitives.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@radix-ui/react-label",
+          "ecosystem": "NPM",
+          "version": "2.1.7",
+          "githubOrg": "radix-ui",
+          "githubRepo": "primitives",
+          "githubUrl": "git+https://github.com/radix-ui/primitives.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@radix-ui/react-select",
+          "ecosystem": "NPM",
+          "version": "2.2.5",
+          "githubOrg": "radix-ui",
+          "githubRepo": "primitives",
+          "githubUrl": "git+https://github.com/radix-ui/primitives.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@radix-ui/react-slider",
+          "ecosystem": "NPM",
+          "version": "1.3.5",
+          "githubOrg": "radix-ui",
+          "githubRepo": "primitives",
+          "githubUrl": "git+https://github.com/radix-ui/primitives.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@radix-ui/react-slot",
+          "ecosystem": "NPM",
+          "version": "1.2.3",
+          "githubOrg": "radix-ui",
+          "githubRepo": "primitives",
+          "githubUrl": "git+https://github.com/radix-ui/primitives.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@radix-ui/react-tabs",
+          "ecosystem": "NPM",
+          "version": "1.1.12",
+          "githubOrg": "radix-ui",
+          "githubRepo": "primitives",
+          "githubUrl": "git+https://github.com/radix-ui/primitives.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@tailwindcss/vite",
+          "ecosystem": "NPM",
+          "version": "4.1.8",
+          "githubOrg": "tailwindlabs",
+          "githubRepo": "tailwindcss",
+          "githubCommit": "193eb84f6c4c23ef43166162bed99d0fb3485c8b",
+          "githubTag": "v4.1.8",
+          "githubUrl": "https://github.com/tailwindlabs/tailwindcss.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "astro",
+          "ecosystem": "NPM",
+          "version": "5.8.1",
+          "githubOrg": "withastro",
+          "githubRepo": "astro",
+          "githubUrl": "git+https://github.com/withastro/astro.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "astro-breadcrumbs",
+          "ecosystem": "NPM",
+          "version": "3.3.1",
+          "githubOrg": "felix-berlin",
+          "githubRepo": "astro-breadcrumbs",
+          "githubCommit": "a41b13e3aad2aa8f0c23d5d335221145745ab54e",
+          "githubTag": "v3.3.1",
+          "githubUrl": "git+https://github.com/felix-berlin/astro-breadcrumbs.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "astro-icon",
+          "ecosystem": "NPM",
+          "version": "1.1.5",
+          "githubOrg": "natemoo-re",
+          "githubRepo": "astro-icon",
+          "githubUrl": "git+https://github.com/natemoo-re/astro-icon.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "class-variance-authority",
+          "ecosystem": "NPM",
+          "version": "0.7.1",
+          "githubOrg": "joe-bell",
+          "githubRepo": "cva",
+          "githubCommit": "45462dd239546f570bca7821ab56bcef61feb900",
+          "githubTag": "v0.7.1",
+          "githubUrl": "git+https://github.com/joe-bell/cva.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "clsx",
+          "ecosystem": "NPM",
+          "version": "2.1.1",
+          "githubOrg": "lukeed",
+          "githubRepo": "clsx",
+          "githubCommit": "925494cf31bcd97d3337aacd34e659e80cae7fe2",
+          "githubTag": "v2.1.1",
+          "githubUrl": "git+https://github.com/lukeed/clsx.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "lucide-react",
+          "ecosystem": "NPM",
+          "version": "0.513.0",
+          "githubOrg": "lucide-icons",
+          "githubRepo": "lucide",
+          "githubCommit": "bdb5f6c1371c4593fba0dae1062477fa16b1deef",
+          "githubTag": "0.513.0",
+          "githubUrl": "https://github.com/lucide-icons/lucide.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "react",
+          "ecosystem": "NPM",
+          "version": "19.1.0",
+          "githubOrg": "react",
+          "githubRepo": "react",
+          "githubCommit": "4a9df08157f001c01b078d259748512211233dcf",
+          "githubTag": "v19.1.0",
+          "githubUrl": "git+https://github.com/react/react.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "react-dom",
+          "ecosystem": "NPM",
+          "version": "19.1.0",
+          "githubOrg": "react",
+          "githubRepo": "react",
+          "githubCommit": "4a9df08157f001c01b078d259748512211233dcf",
+          "githubTag": "v19.1.0",
+          "githubUrl": "git+https://github.com/react/react.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "sharp",
+          "ecosystem": "NPM",
+          "version": "0.34.3",
+          "githubOrg": "lovell",
+          "githubRepo": "sharp",
+          "githubCommit": "276ac2df8d83f357f2d6825a9f0fc53ceb07d6b0",
+          "githubTag": "v0.34.3",
+          "githubUrl": "git+https://github.com/lovell/sharp.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "tailwind-merge",
+          "ecosystem": "NPM",
+          "version": "3.3.0",
+          "githubOrg": "dcastil",
+          "githubRepo": "tailwind-merge",
+          "githubCommit": "ceb3b4aea113281e75b39f20e40fd1d16e0727be",
+          "githubTag": "v3.3.0",
+          "githubUrl": "https://github.com/dcastil/tailwind-merge.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "tailwindcss",
+          "ecosystem": "NPM",
+          "version": "4.1.8",
+          "githubOrg": "tailwindlabs",
+          "githubRepo": "tailwindcss",
+          "githubCommit": "193eb84f6c4c23ef43166162bed99d0fb3485c8b",
+          "githubTag": "v4.1.8",
+          "githubUrl": "https://github.com/tailwindlabs/tailwindcss.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@biomejs/biome",
+          "ecosystem": "NPM",
+          "version": "1.9.4",
+          "githubOrg": "biomejs",
+          "githubRepo": "biome",
+          "githubUrl": "git+https://github.com/biomejs/biome.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@tailwindcss/typography",
+          "ecosystem": "NPM",
+          "version": "0.5.16",
+          "githubOrg": "tailwindlabs",
+          "githubRepo": "tailwindcss-typography",
+          "githubCommit": "39d20e194940903046f2e2733ce0a9b59ccd464b",
+          "githubTag": "v0.5.16",
+          "githubUrl": "git+https://github.com/tailwindlabs/tailwindcss-typography.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@types/node",
+          "ecosystem": "NPM",
+          "version": "22.15.29",
+          "githubOrg": "DefinitelyTyped",
+          "githubRepo": "DefinitelyTyped",
+          "githubUrl": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@types/react",
+          "ecosystem": "NPM",
+          "version": "19.1.6",
+          "githubOrg": "DefinitelyTyped",
+          "githubRepo": "DefinitelyTyped",
+          "githubUrl": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@types/react-dom",
+          "ecosystem": "NPM",
+          "version": "19.1.5",
+          "githubOrg": "DefinitelyTyped",
+          "githubRepo": "DefinitelyTyped",
+          "githubUrl": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "rehype-autolink-headings",
+          "ecosystem": "NPM",
+          "version": "7.1.0",
+          "githubOrg": "rehypejs",
+          "githubRepo": "rehype-autolink-headings",
+          "githubCommit": "a2a9d5b4589379108c4daa4b21639e2ede20292a",
+          "githubTag": "7.1.0",
+          "githubUrl": "git+https://github.com/rehypejs/rehype-autolink-headings.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "rehype-slug",
+          "ecosystem": "NPM",
+          "version": "6.0.0",
+          "githubOrg": "rehypejs",
+          "githubRepo": "rehype-slug",
+          "githubCommit": "f90fc8f4b469b54b26c13ce4b754bd7e6da3e351",
+          "githubTag": "6.0.0",
+          "githubUrl": "git+https://github.com/rehypejs/rehype-slug.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "remark-gfm",
+          "ecosystem": "NPM",
+          "version": "4.0.1",
+          "githubOrg": "remarkjs",
+          "githubRepo": "remark-gfm",
+          "githubCommit": "109972e8a773bf5dac1d6d2da0776557f36971aa",
+          "githubTag": "4.0.1",
+          "githubUrl": "git+https://github.com/remarkjs/remark-gfm.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "typescript",
+          "ecosystem": "NPM",
+          "version": "5.8.3",
+          "githubOrg": "microsoft",
+          "githubRepo": "TypeScript",
+          "githubCommit": "68cead182cc24afdc3f1ce7c8ff5853aba14b65a",
+          "githubTag": "v5.8.3",
+          "githubUrl": "git+https://github.com/microsoft/TypeScript.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "lib.es5.d.ts",
+          "ecosystem": "NPM",
+          "githubOrg": "microsoft",
+          "githubRepo": "TypeScript",
+          "source": "stdlib:typescript_lib"
+        },
+        {
+          "packageName": "lib.scripthost.d.ts",
+          "ecosystem": "NPM",
+          "githubOrg": "microsoft",
+          "githubRepo": "TypeScript",
+          "source": "stdlib:typescript_lib"
+        },
+        {
+          "packageName": "lib.dom.d.ts",
+          "ecosystem": "NPM",
+          "githubOrg": "microsoft",
+          "githubRepo": "TypeScript",
+          "source": "stdlib:typescript_lib"
+        }
       ]
     }
   ],
